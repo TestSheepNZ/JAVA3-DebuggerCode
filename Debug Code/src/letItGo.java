@@ -3,7 +3,7 @@
  * to see what happens when each line is executed.
  * 
  * Find the blog here,
- * http://testsheepnz.blogspot.co.nz/2016/08/java-1-do-you-want-to-build-program.html
+ * http://testsheepnz.blogspot.co.nz/2016/08/java-3-debugging-code-doesnt-bother-me.html
  * 
  * For more information - please reread.
  * 
